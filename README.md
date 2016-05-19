@@ -8,3 +8,5 @@ The scripts are separated into the various data constructs used in Canvas
   -enrollments
   -sections
   -users
+
+Contact info: ryan at thehornfamily.org
